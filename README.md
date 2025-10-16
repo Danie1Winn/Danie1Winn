@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @Danie1Winn
-- 👀 I’m interested in machine learning, automotive control systems and software engineering.
-- 🌱 I’m currently learning JavaScript, HTML and C++
+CS Major @ CSULB
+Lead of the Data Acquisition Subsystem @ CSULB Baja SAE
